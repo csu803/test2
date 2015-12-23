@@ -22,6 +22,7 @@
     NSLog(@"fuck");
         NSLog(@"fuck");
         NSLog(@"fuck");
+            NSLog(@"fuck2");
 }
 
 - (void)didReceiveMemoryWarning {
