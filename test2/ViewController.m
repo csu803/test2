@@ -20,6 +20,8 @@
     
     NSLog(@"fuck");
     NSLog(@"fuck");
+        NSLog(@"fuck");
+        NSLog(@"fuck");
 }
 
 - (void)didReceiveMemoryWarning {
