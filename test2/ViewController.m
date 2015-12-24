@@ -24,6 +24,8 @@
         NSLog(@"fuck");
             NSLog(@"fuck2");
             NSLog(@"fuck1");
+    
+    NSLog(@"master branch");
 }
 
 - (void)didReceiveMemoryWarning {
