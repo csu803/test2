@@ -22,10 +22,13 @@
     NSLog(@"fuck");
         NSLog(@"fuck");
         NSLog(@"fuck");
+<<<<<<< HEAD
             NSLog(@"fuck2");
             NSLog(@"fuck1");
     
     NSLog(@"master branch");
+=======
+>>>>>>> parent of 313045d... aa
 }
 
 - (void)didReceiveMemoryWarning {
